@@ -5,4 +5,4 @@ Need to install selenium for python
 
 The process is to be run as a cronjob [ TIME EXPRESSION ] CMD
 
-Edit the fields in the pyhton script according to your needs
+Edit the fields in the python script according to your needs
